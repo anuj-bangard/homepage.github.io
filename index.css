@@ -1,0 +1,1080 @@
+.desktophd{
+    position: relative;
+width: 1440px;
+height: 6114px;
+
+background: #F8F9FC;
+}
+
+/*Our Work Progress - OWP */
+
+.OWPMainHeading{
+    position: absolute;
+left: 18.54%;
+right: 61.11%;
+top: 52.78%;
+bottom: 45%;
+}
+
+.OWPHeadingText{
+    position: absolute;
+height: 136px;
+left: 18.54%;
+right: 61.11%;
+top: calc(50% - 136px/2 + 188px);
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 65px;
+line-height: 68px;
+/* or 105% */
+z-index: 1;
+
+color: #141B2C;
+
+}
+
+.OWPDesign{
+    position: absolute;
+width: 188px;
+height: 170px;
+left: 250px;
+top: 3152px;
+}
+
+.OWPDesignShape{
+    position: absolute;
+    top: 51.55%;
+    bottom: 45.67%;
+    background: linear-gradient(180deg, rgba(255, 200, 74, 0.15) -3.47%, rgba(255, 215, 20, 0.19) 100%);
+}
+
+.shape1{
+    left: 24.72%;
+right: 69.58%;
+}
+
+.shape2{
+    left: 17.36%;
+right: 76.94%;
+}
+
+.line{
+    position: absolute;
+    width: 90px;
+    height: 0px;
+    left: 685px;
+    border: 2px solid #000000;
+    transform: rotate(180deg);
+    }
+    
+.LBottom{
+    top: 4140px;
+}
+
+.LMiddle{
+    top: 3852px;
+}
+
+.LTop{
+    top: 3597px;
+}
+
+/* Box Commom Classes */
+.OWPtext{
+    
+position: absolute;
+width: 101px;
+height: 72px;
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 28px;
+/* or 56% */
+color: #000000;
+}
+
+.OWPgroup{
+    position: absolute;
+left: 18.54%;
+right: 52.29%;
+box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+}
+
+
+
+.learnmore{
+    position: absolute;
+    height: 16px;
+    left: 21.32%;
+    right: 72.29%;
+    top: calc(50% - 16px/2 + 1412px);
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #2481DE;
+    }
+
+.OWPpara{
+position: absolute;
+left: 21.32%;
+right: 53.68%;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 28px;
+/* or 200% */
+color: #000000;
+mix-blend-mode: normal;
+opacity: 0.9;
+}
+
+.OWPHeading{
+    
+position: absolute;
+height: 28px;
+left: 21.32%;
+right: 72.57%;
+font-family: Work Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+color: #3A4451;
+}
+
+
+.rectangle3{
+    /* Rectangle 3 */
+    position: absolute;
+left: 18.54%;
+right: 52.29%;
+background: #FFFFFF;
+box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.05);
+border-radius: 6px;
+}
+
+/* Box 04 */
+
+.Box04Img1{
+    position: absolute;
+left: 21.67%;
+right: 74.17%;
+top: 68.79%;
+bottom: 30.23%;
+}
+
+
+.Box04{
+    top: 66.03%;
+bottom: 26.12%;
+}
+
+.T04{
+    left: 312px;
+    top: 4053px;
+}
+
+.G04{
+    top: 66.03%;
+bottom: 26.12%;
+
+}
+
+.P04{
+    top: 70.94%;
+bottom: 27.69%;
+}
+
+.H04{
+    top: calc(50% - 28px/2 + 1231px);
+}
+
+/* Box 02 */
+
+.Box02Img1{
+position: absolute;
+left: 21.67%;
+right: 74.17%;
+top: 59.96%;
+bottom: 39.08%;
+}
+
+
+.Box02{
+    top: 57.2%;
+bottom: 34.95%;
+
+}
+
+.T02{
+    left: 312px;
+    top: 3522px;
+}
+
+.G02{
+    top: 57.2%;
+bottom: 34.95%;
+
+}
+
+.P02{
+    top: 62.1%;
+bottom: 36.06%;
+}
+
+.H02{
+    top: calc(50% - 28px/2 + 691px);
+}
+
+/* Box 03 */
+
+.Box03Img1{
+    position: absolute;
+left: 56.74%;
+right: 38.47%;
+top: 64.34%;
+bottom: 34.68%;
+}
+    
+
+.Box03{
+    left: 53.96%;
+right: 16.88%;
+top: 61.61%;
+bottom: 30.54%;
+
+}
+
+.T03{
+    left: 821px;
+top: 3786px;
+}
+
+.G03{
+    left: 53.96%;
+right: 16.88%;
+top: 61.61%;
+bottom: 30.54%;
+
+}
+
+.P03{
+    left: 56.74%;
+right: 18.26%;
+top: 66.52%;
+bottom: 31.65%;
+}
+
+.H03{
+    left: 56.74%;
+right: 30.21%;
+top: calc(50% - 28px/2 + 961px);
+}
+
+/* Box 01 */
+
+.Box01Img1{
+    position: absolute;
+    left: 56.74%;
+    right: 39.1%;
+    top: 55.54%;
+    bottom: 43.47%;
+}
+    
+
+.Box01{
+    left: 53.96%;
+right: 16.88%;
+top: 52.78%;
+bottom: 39.37%;
+
+}
+
+.T01{
+    left: 821px;
+    top: 3253px;
+}
+
+.G01{
+    left: 53.96%;
+right: 16.88%;
+top: 52.78%;
+bottom: 39.37%;
+
+}
+
+.P01{
+    left: 56.74%;
+right: 18.26%;
+top: 57.69%;
+bottom: 40.94%;
+}
+
+.H01{
+    left: 56.74%;
+right: 35%;
+top: calc(50% - 21px/2 + 417.5px);
+}
+
+
+/* Clients */
+
+.ClientsText{
+    position: absolute;
+height: 33px;
+left: 45.35%;
+right: 45.9%;
+top: calc(50% - 33px/2 - 277.5px);
+
+font-family: Rubik;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 33px;
+text-align: center;
+letter-spacing: 1px;
+
+color: #031D5B;
+}
+
+.Partner{
+    position: absolute;
+width: 1057px;
+height: 115px;
+left: 187px;
+top: 2824px;
+
+}
+
+.partnerImg{
+    position: absolute;
+width: 1057px;
+height: 50px;
+left: 0px;
+top: 65px;
+}
+
+/* Helpdesk - HD*/
+
+.HD{
+    position: absolute;
+width: 1629px;
+height: 873px;
+left: -28px;
+top: 1722px;
+
+background: #FFFFFF;
+}
+
+.HDRectangle{
+    position: absolute;
+left: 0;
+right: 0;
+top: 0%;
+bottom: 0%;
+width: 1470px;
+background: #313A5A;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.HDLine{
+    position: absolute;
+width: 315.15px;
+height: 0px;
+left: 130.43px;
+top: 281.17px;
+
+border: 2px solid #FFC84A;
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+}
+/* HelpdeskContent - HDC */
+.HDContent{
+    position: absolute;
+width: 893px;
+height: 486.59px;
+left: 130px;
+top: 190px;
+}
+
+.HDCHeading{
+    position: absolute;
+height: 55px;
+left: 7.98%;
+right: 37.2%;
+top: calc(50% - 55px/2 - 219px);
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 54px;
+color: #FFFFFF;
+}
+
+.HDCText{
+    position: absolute;
+left: 7.98%;
+right: 53.53%;
+top: 33.8%;
+bottom: 47.78%;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 45px;
+/* or 250% */
+
+
+color: #FFFFFF;
+}
+
+.HDBox{
+    position: absolute;
+left: 7.98%;
+right: 81.58%;
+top: 70.68%;
+bottom: 22.5%;
+
+background: #3C167F;
+mix-blend-mode: multiply;
+opacity: 0.3;
+}
+
+.HDBoxText{
+    position: absolute;
+height: 29px;
+left: 10.87%;
+right: 83.24%;
+top: calc(50% - 29px/2 + 193px);
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: normal;
+font-size: 17.958px;
+line-height: 27px;
+/* or 152% */
+
+
+color: #FFFFFF;
+}
+
+.HDBoxImg{
+    position: absolute;
+left: 9.39%;
+right: 90.03%;
+bottom: 25.00%;
+
+/* border: 2.53845px solid #FFD714;
+transform: rotate(-90deg); */
+}
+
+.HDCit{
+    position: absolute;
+width: 216px;
+height: 47px;
+left: 134px;
+top: 716px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+
+color: #FFFFFF;
+}
+
+.HDImg{
+    position: absolute;
+width: 643px;
+height: 843px;
+left: 822px;
+top: 30px;
+
+background: url(Images/Ellipse\ 1.png);
+}
+
+/* Our Suite of Products - OSP */
+
+.OSPNav{
+    position: absolute;
+left: 25.21%;
+right: 29.72%;
+top: 16.13%;
+bottom: 82.01%;
+
+}
+
+.OSPHeading{
+    position: absolute;
+width: 590.15px;
+height: 32px;
+left: 415px;
+top: 986px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 27px;
+line-height: 32px;
+/* identical to box height */
+
+text-align: center;
+
+color: #2F3A5B;
+}
+
+.OSPNavText{
+    position: absolute;
+height: 12px;
+top: 1080.7px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 9px;
+line-height: 12px;
+letter-spacing: 1.5px;
+text-transform: uppercase;
+
+color: #192646;
+
+}
+.t1{
+    left: 381px;
+    width: 70px;
+}
+
+.t2{
+    left: 516px;
+    width: 59px;
+}
+
+.t3{
+    left: 645px;
+    width: 36px;
+}
+
+.t4{
+    width: 110px;
+left: 750px;
+}
+
+.t5{
+    left: 911px;
+    width: 101px;
+}
+
+.OSPNavText:hover{
+    color: #8C919C;
+    
+}
+
+.OSPSubHead{
+    position: absolute;
+width: 248.05px;
+height: 25px;
+left: 231px;
+top: 1283.65px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+color: #2F3A5B;
+}
+
+.OSPSubHeadText{
+position: absolute;
+width: 250px;
+height: 66px;
+left: 231.35px;
+top: 1323px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+color: #2F3A5B;
+
+}
+
+.OSPSubHeadText2{
+    position: absolute;
+width: 276px;
+height: 86px;
+left: 232.35px;
+top: 1404px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 11px;
+line-height: 14px;
+/* or 130% */
+color: #8C919C;
+}
+
+.OSPBox{
+    position: absolute;
+width: 131.35px;
+height: 34.65px;
+left: 232px;
+top: 1504.3px;
+
+background: #2F3A5B;
+border-radius: 4.125px;
+}
+
+.OSPBoxText{
+    position: absolute;
+width: 110.14px;
+height: 11px;
+left: 246.09px;
+top: 1508.3px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 8.25px;
+line-height: 11px;
+letter-spacing: 1.375px;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+.OSPBoxDesign{
+position: absolute;
+left: 16.11%;
+right: 74.77%;
+top: 24.6%;
+bottom: 74.83%;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.OSPImgBox{
+    position: absolute;
+width: 798.09px;
+height: 675.48px;
+left: 467.35px;
+top: 1093px;
+
+}
+
+.OSPImg{
+    position: absolute;
+left: 32.45%;
+right: 12.12%;
+top: 17.88%;
+bottom: 71.07%;
+}
+
+/* Get started and header */
+.navFont{
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 34px;
+    /* identical to box height, or 212% */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.getstartedbg{
+    position: absolute;
+width: 1440px;
+height: 896px;
+left: 0px;
+top: -19px;
+
+background: #2F3A5B;
+}
+
+.Navigation{
+    position: absolute;
+    width: 1177px;
+    height: 58px;
+    left: 131px;
+    top: 48px;
+}
+
+.concor{
+    position: absolute;
+    width: 220px;
+    height: 60px;
+    left: 11px;
+    top: 5px;
+
+    background: url(Images/concor.png);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.Login{
+
+    position: absolute;
+    height: 34px;
+    left: 82.97%;
+    right: 13.47%;
+    top: calc(50% - 34px/2);
+
+}
+
+.Register{
+    position: absolute;
+    height: 34px;
+    left: 92.06%;
+    right: 2.08%;
+    top: calc(50% - 34px/2);
+    font-weight: bold;
+    color: #2F3A5B;
+}
+
+.Rectangle2{
+    position: absolute;
+    left: 89.8%;
+    right: 0%;
+    top: 13.79%;
+    bottom: 17.24%;
+
+    background: #FFC84A;
+    border-radius: 5px 0px;
+}
+
+
+.Group2{
+    position: absolute;
+    left: 34.83%;
+    right: 34.83%;
+    top: 31.03%;
+    bottom: 10.34%;
+}
+
+.Benefit{
+    position: absolute;
+    height: 34px;
+    left: 0%;
+    right: 81.79%;
+    top: calc(50% - 34px/2 + 1px);
+}
+
+.Pricing{
+
+    position: absolute;
+    height: 34px;
+    left: 28.43%;
+    right: 53.64%;
+    top: calc(50% - 34px/2 + 2px);
+}
+
+.Testimonials{
+    position: absolute;
+    height: 34px;
+    left: 58.54%;
+    right: 31.37%;
+    top: calc(50% - 34px/2 + 1px);
+}
+
+.Client{
+    position: absolute;
+    height: 34px;
+    left: 80.95%;
+    right: 7.84%;
+    top: calc(50% - 34px/2 + 1px);
+}
+
+/* header */
+
+.Header{
+    position: absolute;
+    width: 1440px;
+    height: 986px;
+    left: 0px;
+    top: 0px;
+}
+.Autocryp{
+    /* Autocryp is the plac */
+position: absolute;
+height: 128px;
+left: 9.1%;
+right: 55.97%;
+top: calc(50% - 128px/2 + 20px);
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 50px;
+color: #FFFFFF;
+}
+
+.GetStarted{
+    position: absolute;
+    height: 21px;
+    left: 12.36%;
+    right: 80.28%;
+    top: calc(50% - 21px/2 + 174.5px);
+    padding: 20px 0;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #2F3A5B;
+}
+
+.Rectangle{
+    /* get started Rectangle */
+    position: absolute;
+    left: 9.1%;
+    right: 77.01%;
+    top: 71.02%;
+    bottom: 22.45%;
+    background: #FFC84A;
+    border-radius: 0px 10px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.HeaderHeading{
+    /* Easiest way to minin */
+
+
+    position: absolute;
+    left: 9.1%;
+    right: 55.35%;
+    top: 28.58%;
+    bottom: 59.03%;
+
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 57px;
+
+    color: #FFFFFF;
+
+}
+.yellowcolor{
+    color: #FFC84A;
+}
+
+.path5{
+    /* Path 5 (1).1.1 */
+
+
+    position: absolute;
+    width: 296.43px;
+    height: 345.21px;
+    left: 3.73px;
+    top: 2000.4px;
+
+    background: url(Images/Path\ 5\ \(1\).1.1.png);
+    opacity: 0.2;
+    transform: matrix(1, -0.01, -0.01, -1, 0, 0);
+}
+
+.frame1{
+    /* Frame 1 */
+
+
+    position: absolute;
+    width: 1550px;
+    height: 700px;
+    left: 0px;
+    top: -19px;
+
+    background: #2F3A5B;
+}
+
+.Ellipse1{
+    /* Ellipse 1 */
+
+    position: absolute;
+    width: 683px;
+    height: 716px;
+    left: 757px;
+    top: 161px;
+
+    background: url(Images/getstarted.png);
+}
+
+/* Get in touch - GinT */
+
+.GinT{
+    position: absolute;
+left: 24.51%;
+right: 26.74%;
+top: 82.06%;
+bottom: 6.93%;
+
+box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.25);
+}
+
+.yourmsg{
+    position: absolute;
+left: 28.4%;
+right: 32.29%;
+top: 87.65%;
+bottom: 8.86%;
+width: 566px;
+height: 213px;
+
+}
+
+.GinTHeading{
+    position: absolute;
+height: 72.85px;
+left: 28.4%;
+right: 50.62%;
+top: calc(50% - 72.85px/2 + 2061.43px);
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 60px;
+/* or 150% */
+
+letter-spacing: 0.571429px;
+
+color: #54565A;
+}
+.blend{
+    mix-blend-mode: normal;
+opacity: 0.2;
+border: 1px solid #0D325D;
+box-sizing: border-box;
+border-radius: 4px;
+}
+
+.yourname{
+    position: absolute;
+left: 28.4%;
+right: 32.29%;
+top: 84.77%;
+bottom: 14.12%;
+width: 566px;
+height: 68px;
+
+}
+
+.youremail{
+    position: absolute;
+left: 28.4%;
+right: 32.29%;
+top: 86.21%;
+bottom: 12.68%;
+width: 566px;
+height: 68px;;
+}
+
+.GinTBtn{
+    position: absolute;
+left: 42.43%;
+right: 44.62%;
+top: 91.59%;
+bottom: 7.42%;
+width: 186px;
+height: 60px;
+background: linear-gradient(171.03deg, #1B3BD8 -82.64%, #176CE0 6.9%, #0B92E7 57.29%, #0BB6EB 120.27%, #00E0F2 201.85%);
+border-radius: 4px;
+}
+
+.btnfont{
+    position: absolute;
+height: 30px;
+left: 30.52%;
+right: 32.93%;
+top: calc(50% - 30px/2 + 2.96px);
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+text-align: center;
+letter-spacing: 0.2px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.GinTBox{
+    position: absolute;
+left: 24.51%;
+right: 26.74%;
+top: 82.06%;
+bottom: 6.93%;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 20px rgba(29, 17, 86, 0.115517);
+border-radius: 8px;
+}
+
+.GinTBigBox{
+    position: absolute;
+left: 34.5%;
+right: 20.36%;
+top: 0%;
+bottom: 0%;
+
+background: #313A5A;
+}
+
+.Testimonial{
+    position: absolute;
+width: 1577px;
+height: 970px;
+left: 193px;
+top: 4657px;
+
+}
+
+.TestRec{
+    position: absolute;
+
+top: 3.09%;
+bottom: 79.38%;
+
+background: linear-gradient(180deg, rgba(255, 200, 74, 0.15) -3.47%, rgba(255, 215, 20, 0.19) 100%);
+}
+
+.Gshape1{
+    left: 0%;
+right: 94.8%;
+}
+
+.Gshape2{
+    left: 6.72%;
+right: 88.08%;
+}
+
+.TestHeading{
+    position: absolute;
+height: 130px;
+left: 2.6%;
+right: 73.93%;
+top: calc(50% - 130px/2 - 305px);
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 65px;
+line-height: 65px;
+/* or 100% */
+
+
+color: #031D5B;
+}
